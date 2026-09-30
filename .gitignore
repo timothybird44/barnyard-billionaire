@@ -1,0 +1,30 @@
+# Private keys (see game/Assets/Scripts/Game/Secrets.cs.example)
+game/Assets/Scripts/Game/Secrets.cs
+game/Assets/Scripts/Game/Secrets.cs.meta
+
+# Unity generated
+game/[Ll]ibrary/
+game/[Tt]emp/
+game/[Oo]bj/
+game/[Bb]uild/
+game/[Bb]uilds/
+game/[Ll]ogs/
+game/[Uu]ser[Ss]ettings/
+game/[Mm]emoryCaptures/
+*.csproj
+*.sln
+*.user
+mono_crash.*.json
+
+# Website
+website/node_modules/
+website/dist/
+website/*.zip
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
